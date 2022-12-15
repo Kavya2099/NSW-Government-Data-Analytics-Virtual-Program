@@ -14,4 +14,4 @@ First task is to provide analysis on
 # Task 2
 Second task is to document the analysis in presentation or document with tables or charts that illustrate our findings
 
-Program link: [Forage](https://www.theforage.com/virtual-internships/program-divisions-show/LEvP9qwXSHsaZDBnB/eav9SErtwfNYHYL26?ref=87jnjsrQEx6guHcaq)
+Program link: [Forage](https://www.theforage.com/virtual-internships/prototype/LEvP9qwXSHsaZDBnB/NSW-Government-Virtual-Program?ref=87jnjsrQEx6guHcaq)
