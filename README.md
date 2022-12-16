@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68168071/208015751-552c9a56-f7de-4a20-a45f-e155363072fd.png">
+</p>
+
 # NSW-Government-Data-Analytics-Virtual-Program
 Data Analytics virtual internship program by NSW Government through Forage!
 
